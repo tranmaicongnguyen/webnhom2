@@ -25,7 +25,7 @@ Hệ thống thanh toán COD (Cash On Delivery) đã được hoàn thiện đ�
 - ✅ `CODPayment.tsx`: Component xử lý thanh toán COD cho user
 - ✅ `CODConfirmation.tsx`: Component xác nhận thanh toán COD cho admin
 
-#### 2. API Services (`webgiay-frontend/src/services/api.ts`)
+#### 2. API Services (`webbanhang-frontend/src/services/api.ts`)
 - ✅ `createCODPayment`: Tạo thanh toán COD
 - ✅ `confirmCODPayment`: Xác nhận thanh toán COD
 - ✅ `updatePaymentMethod`: Cập nhật phương thức thanh toán
